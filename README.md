@@ -7,3 +7,5 @@
 <p>Html,Css ile beraber responsive uygun hale getirilmiştir.</p>
 
 <h3>Ekran Gif</h3>
+
+![](Game.gif)
